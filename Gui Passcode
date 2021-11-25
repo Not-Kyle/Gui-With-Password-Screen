@@ -6,7 +6,7 @@ local CreditsText = Instance.new("TextButton")
 local Password = Instance.new("TextBox")
 local TextBox = Instance.new("TextButton")
 local whatever = Instance.new("TextButton")
-local TextBox1 = Instance.new("TextButton")
+local TextBox1 = Instance.new("TextButton")  --CHANGE TextBox1 to what your button is gonna be (CHANGE IT EVERYWHERE YOU SEE TextBox1)
 
 ScreenGui.Parent = game.CoreGui
  
